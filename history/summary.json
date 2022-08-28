@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/valorant-discordbot-1.scarrrr316.repl.co",
     "slug": "valorant-bot",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "97.73%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 1624,
     "timeDay": 1624,
     "timeWeek": 1624,
     "timeMonth": 1624,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2022-08-27": 23
+      "2022-08-27": 19
     }
   }
 ]
