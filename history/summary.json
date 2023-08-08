@@ -13,7 +13,7 @@
     "time": 103,
     "timeDay": 99,
     "timeWeek": 107,
-    "timeMonth": 109,
+    "timeMonth": 110,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 2017,
     "dailyMinutesDown": {
-      "2023-08-07": 43,
+      "2023-08-08": 42,
+      "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
