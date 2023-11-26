@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 89,
-    "timeWeek": 90,
-    "timeMonth": 103,
-    "timeYear": 106,
+    "time": 105,
+    "timeDay": 86,
+    "timeWeek": 91,
+    "timeMonth": 102,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/valorant-discordbot-1.scarrrr316.repl.co.ico",
     "slug": "valorant-bot",
     "status": "down",
-    "uptime": "0.46%",
+    "uptime": "0.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2568,
+    "time": 2015,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-25": 38,
+      "2023-11-26": 42,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -397,8 +398,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   }
 ]
